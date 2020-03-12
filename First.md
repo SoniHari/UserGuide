@@ -74,6 +74,7 @@ To change your <I>Password</I>,
 <li>Fill in the <I>Change My Password</I> form.</li>
 <li>Click the <I>Update</I> button or click the <I>Close</I> button to exit the dialog.</li>
 </ol>
+
 #### 1.1.3.3 Forgot Password 
 If you have forgotten your Password,
 <ol>
