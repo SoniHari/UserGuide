@@ -11,7 +11,7 @@ Password: Enter password received through email when your account was first crea
 <p align="center"> 
 
 </p>
-<p align="center"> <B>Figure 3.1. Login Page </B></p>
+<p align="center"> <B>Figure: Login Page </B></p>
 <li>Click the <B>Login</B> button.</li>
 </ol>
 <p>
