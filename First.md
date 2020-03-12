@@ -246,6 +246,7 @@ To show a widget,
 <li>In the <I>More Widgets</I> dialog box, select the required widgets.</li>
 <li>Click the <I>Save</I> button.</li>
 </ol>
+
 ### 1.6.3 Close a Widget
 To close a widget,
 <ol>
