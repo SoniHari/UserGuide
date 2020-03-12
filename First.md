@@ -48,6 +48,7 @@ The format for a new password is as follows:
 <li>Cannot contain a sequence of three identical characters or numbers (for example bbb, 222).</li>
 <li>Must be different from your previous three valid passwords.</li>
 </ul>
+
 #### 1.1.3.2 Change Your Password  
 You will be required to change your password under the following conditions:
 <ul>
