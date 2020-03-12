@@ -102,16 +102,19 @@ An email, with a link to reset your password, is sent to the address associated 
 <li>Once the password reset is complete, a confirmation message is displayed along with a link to the <I>Login</I> page. Click the link and use the new password to login to the Customer Portal.</li>
 </ol>
    
-### 1.1.4 Account Suspension  
+### 1.1.4 Account Suspension
+
 #### 1.1.4.1 Temporary Account Suspension  
 Your account will be automatically suspended on a temporary basis if you have made five unsuccessful login attempts within a ten-minute period. 
 Note that if you have a Nexcenter API Gateway user account but your Customer Portal user account is suspended, you cannot make API calls either.
+
 #### 1.1.4.2 Unlock Suspended Accounts  
 If your account has been suspended,  
 <ol>
 <li>Your account will be automatically unlocked after one hour.</li>
 <li>Alternatively, contact your portal administrator or the NTT Service Desk for assistance.</li>  
 </ol>
+
 ## 1.2 Logout
 It is recommended that you use the _Logout_ icon every time you exit the portal.
 To log out of the Customer Portal,
