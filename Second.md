@@ -1,5 +1,5 @@
-<h1>2. Access Requests</h1>
-<h2>2.1 Access Requests Page</h2>
+# 2. Access Requests
+## 2.1 Access Requests Page
 Click the <B>Access Request</B> <img src="https://github.com/Nexcenter/NCP-Manual/blob/master/AccessRequestIcon.png"> icon to open the <B>Access Requests</B> page.
 The interface displays:
 <ul>
@@ -87,7 +87,7 @@ It is placed in a <I>Pending Response</I> state until the data center staff has 
 -----------
 
 
-<h2>2.3 View Access Request Details</h2>
+## 2.3 View Access Request Details
 
 To view Access Request details, click its reference e.g. ‘CAR-JP-00000001’ from the <B>Access Requests</B> or <B>Upcoming Requests</B> list.
 <p align="center"><img src="https://github.com/Nexcenter/NCP-Manual/blob/master/Access%20Request%20References.png"></p>
@@ -97,7 +97,7 @@ The <B>Access Request</B> page then displays its details together with the assoc
 <p align="center"><B>Figure: Access Request Details</B></p>  
 If the provider has rejected the Request, details may be provided in the <B>State Information</B> field. Any associated Delivery or Facility Requests appear in the <B>Associated Requests</B> section at the bottom of the page, provided you have permission for those Request types. Click the Request References to display their details. 
 
-<h2>2.4 Edit an Access Request</h2>
+## 2.4 Edit an Access Request
 If you have the permissions, you can edit an existing Access Request in the following states from the View Access Request details page:
 <br>
 
@@ -116,7 +116,7 @@ Note that the <B>Escort Required</B> setting cannot be edited.
 
 After the Access Request has been edited the state is changed to <I>Pending Response</I>, the Request needs to be approved by the data center team before your attendees can enter the data center.  
 
-<h2>2.5 Cancel an Access Request</h2>
+## 2.5 Cancel an Access Request
 
 You can cancel existing Access Requests in the following states:  
 <ul>
@@ -141,7 +141,7 @@ When the Access Request is cancelled:
 
 --------------
 
-<h2>2.6 Search Access Requests</h2>
+## 2.6 Search Access Requests
 
 To search for Access Requests,
 <ol>
@@ -199,7 +199,7 @@ To search for Access Requests,
  
  The search results appear in a list below the search criteria fields.  By default the oldest items first are shown. <p>Click a column heading to sort by that column. <p>To display details of an Access Request, click its <B>Request Reference.</B>
  
- <h3>2.6.1 Search by Date</h3>
+### 2.6.1 Search by Date
 All Nexcenter Requests and Access Logs can be searched by date.
 To search by date,
 <ol>
